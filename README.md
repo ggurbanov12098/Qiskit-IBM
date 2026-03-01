@@ -3,6 +3,9 @@
 > **Master Thesis Experiment Notebook**
 > Benchmarking Shor's order-finding algorithm (N = 15, a = 2) across ideal simulation, noisy simulation, and real IBM Quantum hardware.
 
+Overleaf IEEE paper: [https://www.overleaf.com/read/mnhqjpfqdzgs#8afe03](https://www.overleaf.com/read/mnhqjpfqdzgs#8afe03)  
+(includes detailed analysis and discussion)
+
 ---
 
 ## Table of Contents
